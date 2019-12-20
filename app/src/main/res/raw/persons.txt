@@ -1,0 +1,4 @@
+[
+ { 'name': 'Petya', 'age': 16},
+ { 'name': 'Vasya', 'age': 18}
+]

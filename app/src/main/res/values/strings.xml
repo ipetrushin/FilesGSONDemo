@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilesGSONDemo</string>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>Irkutsk</item>
+    </string-array>
+</resources>
